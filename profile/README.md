@@ -12,5 +12,4 @@
 | 김정훈 | 이주현 | 심규보 | 성유빈 | 임예은 |
 |:------:|:------:|:------:|:------:|:------:|
 | <img src="이미지주소1" width="120"/> | <img src="이미지주소2" width="120"/> | <img src="이미지주소3" width="120"/> | <img src="이미지주소4" width="120"/> | <img src="이미지주소4" width="120"/> |
-| [@thuygom](https://github.com/thuygom) | [@juhyun](https://github.com/hana03030) | [@Kyubo Sim](https://github.com/Qbooo) | [@
-mimolulu](https://github.com/mimolulu) | [@yeeunmin](https://github.com/ye-eun-min201) |
+| [@thuygom](https://github.com/thuygom) | [@juhyun](https://github.com/hana03030) | [@Kyubo Sim](https://github.com/Qbooo) | [@mimolulu](https://github.com/mimolulu) | [@yeeunmin](https://github.com/ye-eun-min201) |
