@@ -62,6 +62,11 @@ SCOPE는 인플루언서 콘텐츠를 다각도로 분석하고, 사용자의 �
 - 팔로워 군집을 기반으로 한 필터 조합 가능  
 - 상세 필터를 통한 목적별 정밀 추천 지원
  ![추천](https://github.com/user-attachments/assets/b2828313-5057-4df4-8a91-c301e04bf846)
+<p align="center">
+  <img src="[image1.png](https://github.com/user-attachments/assets/b2828313-5057-4df4-8a91-c301e04bf846)" height="100">
+  <img src="[image2.png](https://github.com/user-attachments/assets/b2828313-5057-4df4-8a91-c301e04bf846)" height="100">
+  <img src="[image3.png](https://github.com/user-attachments/assets/b2828313-5057-4df4-8a91-c301e04bf846)" height="100">
+</p>
 
 ## 🚀 기대 효과
 
