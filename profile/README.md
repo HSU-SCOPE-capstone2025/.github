@@ -45,7 +45,11 @@ SCOPE는 인플루언서 콘텐츠를 다각도로 분석하고, 사용자의 �
 - YouTube, Instagram, TikTok 플랫폼별 콘텐츠 및 반응 분석  
 - 팔로워 수, 좋아요 수, 댓글 수의 시간 흐름에 따른 변화 시각화  
 - 최근 활동 썸네일과 주요 콘텐츠 확인
- ![SNS 계정1](https://github.com/user-attachments/assets/9c3e562c-30e3-4938-8053-4d7c463d2f47)
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/9c3e562c-30e3-4938-8053-4d7c463d2f47" height="300"/>
+  <img src="https://github.com/user-attachments/assets/2679ede5-d15f-4a88-ac77-57c6be056e42" height="300"/>
+</p>
 
 ### 👤 5. 계정 상세 분석
 - 플랫폼별 SCOPE 점수 변화 및 핵심 지지층 비율 시각화  
@@ -56,9 +60,9 @@ SCOPE는 인플루언서 콘텐츠를 다각도로 분석하고, 사용자의 �
 > ※ 모든 분석은 YouTube, Instagram, TikTok 세 가지 플랫폼에 대해 통합 제공됩니다.
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/33b11858-6cce-49a3-98f0-efb63f7daa54" height="200"/>
-  <img src="https://github.com/user-attachments/assets/fdacfb7d-f05b-4f39-8bd0-04a51eb26754" height="200"/>
-  <img src="https://github.com/user-attachments/assets/ee04b730-f2f0-470e-9821-a420b285c880" height="200"/>
+  <img src="https://github.com/user-attachments/assets/33b11858-6cce-49a3-98f0-efb63f7daa54" height="300"/>
+  <img src="https://github.com/user-attachments/assets/fdacfb7d-f05b-4f39-8bd0-04a51eb26754" height="300"/>
+  <img src="https://github.com/user-attachments/assets/ee04b730-f2f0-470e-9821-a420b285c880" height="300"/>
 </p>
 
 ### 🎯 6. 맞춤 인플루언서 추천
