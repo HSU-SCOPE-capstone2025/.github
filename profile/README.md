@@ -1,6 +1,6 @@
 # 💻 SCOPE
 **Sentiment & Comment Opinion Prediction Engine**
-> 인플루언서 콘텐츠를 멀티모달로 분석하여 지지층을 예측하는 콘텐츠 반응 분석 서비스
+>인플루언서 콘텐츠를 멀티모달로 분석하여 지지층을 예측하는 콘텐츠 반응 분석 서비스
 
 ## 📽️ 소개 영상
 [👉 웹페이지 소개 영상 보러가기 ](https://youtu.be/your_video_link)  
@@ -22,6 +22,22 @@
 **개발 언어**: Javascript, Java, Python, SQL<br>
 **주요 기술**: React, Spring Boot, Flask, GPT-4, FastText, KcBERT, KoBERT, HuBERT, ViT, Pyannote, MediaPipe, opencv haar cascade, STT, MultiModal Attention Fusion
 
+## 📊 기능 및 화면 소개
+
+## 📌 개발 일정 및 역할 분담
+
 ## 🎨 전시용 판넬
+![SCOPE_판넬](https://github.com/user-attachments/assets/d9e4e53f-930c-43e9-a288-c004cdb3df9f)
 
 ## 👥 팀원 소개
+| 김정훈 | 이주현 | 심규보 | 성유빈 | 임예은 |
+|:------:|:------:|:------:|:------:|:------:|
+| <img src="이미지주소1" width="120"/> | <img src="이미지주소2" width="120"/> | <img src="이미지주소3" width="120"/> | <img src="이미지주소4" width="120"/> | <img src="이미지주소4" width="120"/> |
+| [@thuygom](https://github.com/thuygom) | [@juhyun](https://github.com/hana03030) | [@Kyubo Sim](https://github.com/Qbooo) | [@mimolulu](https://github.com/mimolulu) | [@yeeunmin](https://github.com/ye-eun-min201) |
+
+## 📄 논문 투고
+-  [AICOMPS 2024] Undergraduate Session  
+ - Title: *SCOPE – Sentiment & Comment Opinion Prediction Engine* (논문 투고)
+ 
+-  [KIPS ASK 2025] Undergraduate Session  
+ - Title: *AURA – Attention-Fused User Response Analysis* (논문 투고)
