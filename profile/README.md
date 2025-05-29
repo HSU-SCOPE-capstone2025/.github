@@ -14,6 +14,7 @@
 'SCOPE'는 단순 수치를 넘어 **콘텐츠 맥락과 사용자 감정의 상호작용을 분석**함으로써, **인플루언서 마케팅, 개인화 추천, 사회현상 해석에 실질적인 인사이트를 제공**한다.
 
 ## 🧩 구조도
+![scope구조도](https://github.com/user-attachments/assets/9e00cc09-2732-4743-8148-d281a7bbbd99)
 
 ## 🛠️ 적용 기술 및 구조
 **개발 환경**: Windows, Mac OS, Ubuntu<br>
