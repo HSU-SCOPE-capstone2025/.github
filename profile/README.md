@@ -30,10 +30,10 @@
 ![SCOPE_판넬](https://github.com/user-attachments/assets/d9e4e53f-930c-43e9-a288-c004cdb3df9f)
 
 ## 👥 팀원 소개
-| 김정훈 | 이주현 | 심규보 | 성유빈 | 임예은 |
+| 김정훈 | 성유빈 | 심규보 | 이주현 | 임예은 |
 |:------:|:------:|:------:|:------:|:------:|
-| <img src="이미지주소1" width="120"/> | <img src="이미지주소2" width="120"/> | <img src="이미지주소3" width="120"/> | <img src="이미지주소4" width="120"/> | <img src="이미지주소4" width="120"/> |
-| [@thuygom](https://github.com/thuygom) | [@juhyun](https://github.com/hana03030) | [@Kyubo Sim](https://github.com/Qbooo) | [@mimolulu](https://github.com/mimolulu) | [@yeeunmin](https://github.com/ye-eun-min201) |
+| <img src="https://github.com/thuygom.png" width="120"/> | <img src="https://github.com/mimolulu.png" width="120"/> | <img src="https://github.com/Qbooo.png" width="120"/> | <img src="https://github.com/hana03030.png" width="120"/> | <img src="https://github.com/ye-eun-min201.png" width="120"/> |
+| [@thuygom](https://github.com/thuygom) | [@mimolulu](https://github.com/mimolulu) | [@Kyubo Sim](https://github.com/Qbooo) | [@juhyun](https://github.com/hana03030) | [@yeeunmin](https://github.com/ye-eun-min201) |
 
 ## 📄 논문 투고
 -  [AICOMPS 2024] Undergraduate Session  
