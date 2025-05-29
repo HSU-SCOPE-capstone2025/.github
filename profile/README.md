@@ -55,7 +55,11 @@ SCOPE는 인플루언서 콘텐츠를 다각도로 분석하고, 사용자의 �
 
 > ※ 모든 분석은 YouTube, Instagram, TikTok 세 가지 플랫폼에 대해 통합 제공됩니다.
 
- ![계정분석1](https://github.com/user-attachments/assets/33b11858-6cce-49a3-98f0-efb63f7daa54)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/33b11858-6cce-49a3-98f0-efb63f7daa54" height="200"/>
+  <img src="https://github.com/user-attachments/assets/fdacfb7d-f05b-4f39-8bd0-04a51eb26754" height="200"/>
+  <img src="https://github.com/user-attachments/assets/ee04b730-f2f0-470e-9821-a420b285c880" height="200"/>
+</p>
 
 ### 🎯 6. 맞춤 인플루언서 추천
 - 사용자의 관심사 및 조건 입력 기반 추천 기능  
