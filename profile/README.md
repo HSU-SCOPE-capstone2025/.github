@@ -88,33 +88,39 @@ SCOPE는 인플루언서 콘텐츠를 다각도로 분석하고, 사용자의 �
 ![SCOPE_판넬](https://github.com/user-attachments/assets/d9e4e53f-930c-43e9-a288-c004cdb3df9f)
 
 ## 출처
-항목
-내용
-출처 또는 라이선스 유형
 SNS 영상 및 댓글 데이터
-YouTube 인플루언서 채널 기반 영상 및 댓글 수집, Python 크롤러 기반 자동 수집
-YouTube Data API v3 /  YouTube TOS
+- YouTube 인플루언서 채널 기반 영상 및 댓글 수집, Python 크롤러 기반 자동 수집
+- YouTube Data API v3 /  YouTube TOS
+
 감정 분석 (텍스트)
-한국어 댓글 감정 분석: KcBERT 사전학습 모델 활용학습/ 검증 데이터셋: AI Hub 감성대화 말뭉치, CMU-MOSEI, MELD
-KcBERT GitHub / AI Hub 감성대화/  Google STT
+한국어 댓글 감정 분석: 
+- KcBERT 사전학습 모델 활용학습/ 검증 데이터셋: AI Hub 감성대화 말뭉치
+- KcBERT GitHub / AI Hub 감성대화/  Google STT
+  
 감정 분석 (음성)
-Google Speech-to-Text로 STT 처리 후,  HuBERT 모델 기반 감정 분류 수행화자 분리: pyannote-audio 적용
-HuBERT (Hsu et al., 2021) /  pyannote-audio GitHub
+- Google Speech-to-Text로 STT 처리 후,  HuBERT 모델 기반 감정 분류 수행화자 분리: pyannote-audio 적용
+- HuBERT (Hsu et al., 2021) /  pyannote-audio GitHub
+  
 감정 분석 (얼굴)
-인물 얼굴 감정 분석: DeepFace 및 ArcFace 기반 CNN/FaceNet 모델로 표정 감정 추정
-DeepFace GitHub /  ArcFace: Deng et al., 2019 /  Vision Transformer
+- 인물 얼굴 감정 분석: DeepFace 및 ArcFace 기반 CNN/FaceNet 모델로 표정 감정 추정
+- DeepFace GitHub /  ArcFace: Deng et al., 2019 /  Vision Transformer
+
 사이버불링 지수 계산
-댓글 감정 분류(KcBERT) 및 클러스터링(KMeans) 결과로부터 공격성/혐오 클러스터 비율 추출 → 수치화
-자체 구현 /  기반 모델: KcBERT / Clustering by scikit-learn
+- 댓글 감정 분류(KcBERT) 및 클러스터링(KMeans) 결과로부터 공격성/혐오 클러스터 비율 추출 → 수치화
+- 자체 구현 /  기반 모델: KcBERT / Clustering by scikit-learn
+
 에코체임버 지수 계산
-Shannon Diversity Index 공식 사용의견 다양성 수치화로 편향도 추정공식: $H = -\sum (p_i \log p_i)$
-Shannon, C.E. (1948), A Mathematical Theory of Communication, Bell System Technical Journal
+- Shannon Diversity Index 공식 사용의견 다양성 수치화로 편향도 추정공식
+- Shannon, C.E. (1948), A Mathematical Theory of Communication, Bell System Technical Journal
+
 멀티모달 Fusion 기술
-텍스트(GloVe), 음성(COVAREP), 얼굴(FACET) 임베딩 통합Attention Fusion 및 NAS 기반 구조로 감정 분류CMU SDK 기반 MOSEI, MELD 실험 적용
-자체 연구 논문 사용(1st round review completed) /  CMU SDK GitHub  / MELD
+- 텍스트(GloVe), 음성(COVAREP), 얼굴(FACET) 임베딩 통합Attention Fusion 및 NAS 기반 구조로 감정 분류CMU SDK 기반 MOSEI, MELD 실험 적용
+- 자체 연구 논문 사용(1st round review completed) /  CMU SDK GitHub  / MELD
+
 사용자 인터페이스 및 챗봇
-OpenAI GPT-4 API를 통한 리포트 요약 및 Follow Support Score 해설 기능 제공
-OpenAI GPT-4
+- OpenAI GPT-4 API를 통한 리포트 요약 및 Follow Support Score 해설 기능 제공
+- OpenAI GPT-4
+  
 <img width="525" height="414" alt="image" src="https://github.com/user-attachments/assets/711239a0-f2f3-4254-b031-06067647b355" />
 
 
@@ -126,6 +132,7 @@ OpenAI GPT-4
 
 ## 📄 논문 투고
 <img width="280" height="395" alt="image" src="https://github.com/user-attachments/assets/b0db717c-b1bf-4015-a2ff-0f07feeabc62" />
+
 - [IJIBC 8월호 투고, accept]
 -  [AICOMPS 2024] Undergraduate Session  
  - Title: *SCOPE – Sentiment & Comment Opinion Prediction Engine* (논문 투고)
